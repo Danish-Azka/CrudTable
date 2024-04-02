@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrudTable/static/css/main.2cd98671.css",
+    "main.js": "/CrudTable/static/js/main.607a3dee.js",
+    "static/js/453.a7817f95.chunk.js": "/CrudTable/static/js/453.a7817f95.chunk.js",
+    "index.html": "/CrudTable/index.html",
+    "main.2cd98671.css.map": "/CrudTable/static/css/main.2cd98671.css.map",
+    "main.607a3dee.js.map": "/CrudTable/static/js/main.607a3dee.js.map",
+    "453.a7817f95.chunk.js.map": "/CrudTable/static/js/453.a7817f95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd98671.css",
+    "static/js/main.607a3dee.js"
+  ]
+}
